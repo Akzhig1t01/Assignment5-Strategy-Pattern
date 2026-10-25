@@ -4,9 +4,6 @@
 
 **Group:** SE-2523
 
-**Course:** Software Design Patterns (ShP-2216)
-
-**Academic Year:** 2026–2027
 
 ## 📌 Project Overview
 
